@@ -1,0 +1,3 @@
+Name: Marco	Haloc
+Course: BSIT
+Interests in programming: Python
